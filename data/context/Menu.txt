@@ -1,0 +1,177 @@
+Category: Appetizers
+
+1. Oysters - Half Dozen
+   - Description: With Prosecco Mignonette, Lemon
+   - Price: $16
+   - Dietary Information: Gluten Free
+   - Allergies: Allium Allergy, Shellfish Allergy
+
+2. Oysters - One Dozen
+   - Description: With Prosecco Mignonette, Lemon
+   - Price: $32
+   - Dietary Information: Gluten Free
+   - Allergies: Allium Allergy, Shellfish Allergy
+
+3. Moroccan Carrots
+   - Description: With Ras El Hanout, Honey, Roasted Garlic Labneh
+   - Price: $9
+   - Popularity: Popular
+   - Dietary Information: Gluten Free, Vegetarian
+   - Allergies: Allium Allergy, Dairy Allergy, Nut Allergy, Sesame Allergy
+
+4. Chickpea Hummus, Black-Eyed Pea Hummus
+   - Description: With Sumac Pickled Pearl Onions, Za'atar Brussel Sprouts, Smoked Tomato Jam, Crispy Flatbread
+   - Price: $17
+   - Dietary Information: Gluten Free, Vegetarian, Vegan
+   - Allergies: Allium Allergy, Nut Allergy, Sesame Allergy
+
+5. Patatas Bravas
+   - Description: With Chermoula Aioli, Mojo Rojo
+   - Price: $12
+   - Dietary Information: Vegetarian
+   - Allergies: Allium Allergy, Egg Allergy
+
+6. Olive Oil Poached Shrimp
+   - Description: With Castelvetrano Olives, Garlic, Chili, Crispy Flatbread
+   - Price: $17
+   - Allergies: Allium Allergy, Crustacean Allergy
+
+7. Grilled Octopus
+   - Description: With Saffron Fennel, Smashed Potato, Charred Leek Puree, Lemon, Celery, Crispy Capers, Paprika, Chili Oil
+   - Price: $23
+   - Allergies: Allium Allergy, Dairy Allergy, Soy Allergy
+
+8. PEI Mussels
+   - Description: With Coconut Tamarind Broth, Yuca Chips, Basil
+   - Price: $18
+   - Allergies: Allium Allergy, Shellfish Allergy
+
+9. Yellowfin Tuna Crudo
+   - Description: With Brown Caviar, Pomelo Sorbet, Citrus Vinaigrette, Pomegranate Gel, Fennel Fronds
+   - Price: $18
+   - Popularity: Popular
+   - Dietary Information: Gluten Free
+
+10. Charred Shishito Peppers, Chorizo
+    - Description: With Baharat Toum, Olive Oil, Salt
+    - Price: $14
+    - Dietary Information: Gluten Free
+    - Allergies: Allium Allergy
+
+11. Ham and Cheese Croquettes
+    - Description: With Smoked Paprika Aioli
+    - Price: $14
+    - Popularity: Popular
+    - Allergies: Allium Allergy, Dairy Allergy, Egg Allergy
+
+12. Aunt Mary's Pork & Beef Meatballs
+    - Description: With Salsa Verde, Cucumber Kimchi
+    - Price: $15
+    - Allergies: Allium Allergy, Dairy Allergy, Egg Allergy
+
+13. Spanish Jamon
+    - Description: With Crispy Flatbread, Tomato
+    - Price: $19
+
+14. Crispy House-Made Flatbread
+    - Description: With Tomato, Whipped Herb Ricotta with Honey
+    - Price: $8
+    - Dietary Information: Vegetarian
+    - Allergies: Allium Allergy
+
+Category: Salads
+
+1. Burrata with Grilled Peaches
+   - Ingredients: Arugula Pesto, Jalapeño, Preserved Lemon, Basil, Olive Oil, Balsamic, Black Lava Salt
+   - Price: $18
+   - Popularity: Popular
+   - Dietary Information: Gluten Free, Vegetarian
+   - Allergies: Allium Allergy, Dairy Allergy, Nut Allergy
+
+2. Local Spring Mix
+   - Ingredients: Pickled Apricot, Pine Nuts, Marinated Feta, Green Goddess Dressed
+   - Price: $15
+   - Dietary Information: Gluten Free, Vegetarian
+   - Allergies: Allium Allergy, Dairy Allergy, Nut Allergy
+
+Category: Pizzas
+
+3. Fresh Mozzarella
+   - Ingredients: Basil, Shaved Parmesan, Marinara Sauce, Garlic Oil
+   - Price: $19
+   - Allergies: Allium Allergy, Dairy Allergy
+
+4. Roasted Eggplant
+   - Ingredients: Mozzarella, Ricotta, Moroccan Parsley Lemon Pesto, Annatto Oil
+   - Price: $22
+   - Allergies: Allium Allergy, Dairy Allergy
+
+5. Pepperoni
+   - Ingredients: Mozzarella, Marinara Sauce
+   - Price: $24
+   - Allergies: Allium Allergy, Dairy Allergy
+
+6. Wild Mushroom, Fennel Pork Sausage
+   - Ingredients: Mozzarella, Truffle Oil, Bechamel
+   - Price: $25
+   - Popularity: Popular
+   - Allergies: Allium Allergy, Dairy Allergy, Mushroom Allergy
+
+7. Arugula, Fig, Prosciutto
+   - Ingredients: Balsamic Glaze, Gorgonzola, Olive Oil
+   - Price: $26
+   - Allergies: Allium Allergy, Dairy Allergy
+
+Category: Entrees
+
+8. House-Made Ricotta Cavatelli
+   - Ingredients: Tuscan White Bean, Escarole, Garlic, Andouille Sausage, Parmesan
+   - Price: $29
+   - Allergies: Allium Allergy, Dairy Allergy
+
+9. Pappardelle, Duck Confit
+   - Ingredients: Carrot Sugo, Truro Oyster Mushrooms, Pea Tendrils
+   - Price: $32
+   - Allergies: Allium Allergy, Dairy Allergy, Egg Allergy, Mushroom Allergy
+
+10. Cacao Chili Rub Boneless Shortrib
+    - Ingredients: Madeira Demi, Crimson Lentil Risotto with Smoked Gouda, Asparagus
+    - Price: $46
+    - Popularity: Popular
+    - Dietary Information: Gluten Free
+    - Allergies: Allium Allergy, Dairy Allergy
+
+11. 8 oz. Grilled Skirt Steak
+    - Ingredients: Dry Ancho Rub, Mezcal Mist Mole Amarillo, Charred Onions, Toasted Haloumi Cheese, Pomegranate Molasses
+    - Price: $38
+    - Allergies: Allium Allergy, Dairy Allergy
+
+12. Crispy Cod, Chili Dust
+    - Ingredients: Sumac Yogurt, Heirloom Tomato Salad of Cipollinis, Cucumber, Parsley, Mint and Tahini Dressing
+    - Price: $32
+    - Popularity: Popular
+    - Dietary Information: Vegetarian, Dairy Allergy, Sesame Allergy
+
+13. Cont of Japanese Eggplant
+    - Ingredients: Brush of Miso with Basil Couscous, Tomato and Black Garlic Jus, Garlicky Broccoli Rabe, Cashews
+    - Price: $28
+    - Dietary Information: Vegetarian, Vegan
+    - Allergies: Allium Allergy, Soy Allergy, Nut Allergy, Sesame Allergy
+
+14. Seared Yellowfin Tuna
+    - Ingredients: Chamomile Rub, Olive Gremolata, Haricot Verts, Parsley Emulsion, Celery Root Puree
+    - Price: $34
+    - Dietary Information: Gluten Free
+    - Allergies: Allium Allergy, Dairy Allergy
+
+Category: Dessert
+
+15. Magical Chocoflan with Dulce de Leche
+    - Price: $12
+    - Allergies: Dairy Allergy, Egg Allergy
+
+16. Gooseberries, Blackberries, and Raspberries
+    - Description: With Vanilla Almond Biscotti
+    - Price: $12
+    - Dietary Information: Vegetarian
+    - Allergies: Dairy Allergy, Egg Allergy, Nut Allergy
